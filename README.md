@@ -6,3 +6,4 @@ This website is made using the React HTML CSS .
 npm install
 npm start
 ```
+[Demo for the Site](https://movie-searcher-r.netlify.app/)
